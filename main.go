@@ -8,4 +8,6 @@ func main() {
 
 	Variables.MostrarEnteros()
 
+	Variables.RestoVariables()
+
 }
